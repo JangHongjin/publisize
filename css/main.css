@@ -864,3 +864,6 @@ footer p a {
 footer p a:hover {
   color: #fff;
 }
+
+
+.hidden {position:absolute; left:-10000px; top:auto; height:1px; overflow:hidden; }
